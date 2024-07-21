@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand navbar-dark bg-primary sticky-top">
         <div class="container-lg">
-            <a class="navbar-brand" href="."><i class="bi bi-hospital"></i> Qia  Tailor</a>
+            <a class="navbar-brand" href="."><i class="bi bi-house-dash"></i> Qia  Tailor</a>
             <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                 <ul class="navbar-nav">
                     <li class="nav-item dropdown">

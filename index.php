@@ -26,10 +26,10 @@
                 include "dasboard.php";
            }if(isset($_GET['x']) && $_GET['x'] == 'customer'){
             include "customer.php";
-           }if(isset($_GET['x']) && $_GET['x'] == 'order'){
+           }if(isset($_GET['x']) && $_GET['x'] == 'order'){  
             include "order.php";
-           }if(isset($_GET['x']) && $_GET['x'] == 'ukurandanbahan'){
-            include "ukurandanbahan.php";
+           }if(isset($_GET['x']) && $_GET['x'] == 'design'){
+            include "design.php";
            }if(isset($_GET['x']) && $_GET['x'] == 'admin'){
             include "admin.php";
            }
